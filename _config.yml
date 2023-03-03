@@ -141,9 +141,9 @@ googlefonts:
 chulapa-skin: 
   highlight     :  default
   skin         :   graymor
-  autothemer    :  true
+  autothemer    :  
   vars          :    
-    primary     :  "#ECEEEC"
+    primary     :  #ECEEEC
     
 # D. Jekyll Defaults and collections: see https://jekyllrb.com/
 
