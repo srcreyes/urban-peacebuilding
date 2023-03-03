@@ -143,7 +143,7 @@ chulapa-skin:
   skin         :   graymor
   autothemer    :  
   vars          :    
-    primary     :  #ECEEEC
+    primary     :  ECEEEC
     
 # D. Jekyll Defaults and collections: see https://jekyllrb.com/
 
