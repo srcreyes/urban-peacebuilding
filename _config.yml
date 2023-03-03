@@ -22,7 +22,7 @@ og_image                :     #default[author.avatar (see below)] or [github-ava
 twitter_site            :     dahlia_cs
 author:
   name                  :     Dahlia Simangan
-  avatar                :     https://github.com/srcreyes/urban-peacebuilding/blob/master/assets/dahlia-headshot.png
+  avatar                :     /assets/dahlia-headshot.png
   location              :     Hiroshima University, Japan 
 #  links:                
 #    - url:  #A link or email: https://twitter.com/jack, mail@example.com
