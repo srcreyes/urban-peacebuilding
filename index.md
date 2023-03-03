@@ -1,24 +1,8 @@
 ---
 layout: default
-title: Chulapa on remote
+title: Urban Peacebuilding Sites Observatory
 header_type: hero
-subtitle: Starter pack
+subtitle: Urban peacebuilding in a spatial context
 ---
 
-Click [**Use this template**](https://github.com/dieghernan/chulapa-101/generate) button above for cloning this repo and get started with [Chulapa Jekyll theme](https://github.com/dieghernan/chulapa).
-
-Contains basic configuration to get you a site with:
-
-- Sample posts and [paginated blog index](./blog/).
-- Sample collection with Markdown and kramdown cheatsheets and [collection index](./cheatsheets).
-- Archive pages for posts grouped by year, category, and tag.
-- Demo page with the different Bootstrap components and how they look with the actual skin settings.
-- Sample 404 page.
-- Site search with Lunr.
-- Sample `_config` with minimal configuration. `primary` color is set to <span class="text-primary">LightSkyBlue</span> and `autothemer` is enabled. [Learn how to customize your site](https://dieghernan.github.io/chulapa/docs/03-theming).
-- Sample `algolia-search.yml` for using Algolia+GitHub Actions.
-- Sample files for extending the theme with your own scripts and css.
-
-On addition, `jekyll-sitemap` generates your sitemap on [./sitemap.xml](./sitemap.xml), and Chulapa generates an Atom feed on [./atom.xml](./atom.xml) and a RSS 2.0 feed on [./rss.xml](./rss.xml).
-
-[Configure as necessary](https://dieghernan.github.io/chulapa/docs/02-config) and replace sample content with your own.
+Spatial peacebuilding highlights the agency of places and spaces that promote peace or reinforce conflict in conflict-affected societies. This paper draws on the growing literature on spatial peacebuilding in an urban context to analyze the post-siege reconstruction of Marawi City. In 2017, Marawi City witnessed a five-month battle between Islamic militant groups and the Philippine military, resulting in the longest urban warfare in the country. The aftermath of the siege saw more than a thousand people dead, thousands more injured, and hundreds of thousands became refugees in neighboring provinces. The government has launched an inter-agency reconstruction effort, but the ruins of residential houses, commercial buildings, and places of worship have become fixtures of the new urbanscape of Marawi City. This pre-fieldwork paper explores the potential peace-promoting and conflict-reinforcing agencies of urban spaces and places in the reconstruction of Marawi City. This exploration aims to contribute an urban perspective to spatial peacebuilding scholarship and inform national/subnational policies for rebuilding Marawi City.
