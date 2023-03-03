@@ -98,7 +98,7 @@ navbar:
     img     :  # An small image, try 30x30px
   nav:
   - title   : About # Label
-    url     : /about
+    url     : /pages/about.md
   - title   : Geoportal
     url     : /cheatsheets
 #  - title   : Extras
