@@ -1,6 +1,7 @@
 ---
 layout: minimal
 title:  "About Urban Peacebuilding Sites Observatory"
+permalink: /about
 ---
 
 # About
