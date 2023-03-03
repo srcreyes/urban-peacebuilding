@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 title:  "About Urban Peacebuilding Sites Observatory"
 permalink: /about
 ---
